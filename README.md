@@ -2,7 +2,7 @@
 Use PowerApps to create and follow your documents and approvals in your organization.  
 Usa PowerApps para crear y seguir tus documentos y sus aprobaciones en tu organización.
 
-![Front - Portada](https://github.com/TachoArancibia/Document-Approval-System/blob/master/document_details.png?raw=true)
+![Front - Portada](https://github.com/TachoArancibia/Document-Approval-System/blob/master/front.png?raw=true)
 
 ## Description / Descripción
 
